@@ -1,0 +1,3 @@
+[submodule "extensions/operations/directus-extension-sql-operation"]
+	path = extensions/operations/directus-extension-sql-operation
+	url = https://github.com/cmiteam/directus-extension-sql-operation.git
